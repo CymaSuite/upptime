@@ -7,7 +7,12 @@ sites:
     url: https://app.cymasuite.com
   - name: Api Cymasuite
     url: https://api.cymasuite.com
-
+  - name: Web Cymasuite
+    url: https://web.cymasuite.com
+  - name: Servicio de impuestos interno
+    url: https://homer.sii.cl/
+  - name: Servicio de impuestos interno zeusr
+    url: https://zeusr.sii.cl
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
