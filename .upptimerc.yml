@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: CymaSuite # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -21,8 +21,8 @@ status-website:
   logoUrl: https://www.cymasuite.com/img/logo-cymasuite.svg
   name: Upptime
   theme: light
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** es el monitor de tiempo de actividad de CymaSuite y los estados de las páginas"
+  introMessage: Esta es una página de estado de muestra que utiliza **real-time** Datos de nuestra [GitHub repository](https://github.com/CymaSuite/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/CymaSuite/upptime)
   navbar:
     - title: Status
       href: /
