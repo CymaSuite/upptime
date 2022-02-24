@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: App Cymasuite
-    url: https://app.cymasuite.com
+    url: https://app.cymasuite.com/api/v1/healthcheck
   - name: Api Cymasuite
     url: https://api.cymasuite.com
   - name: Web Cymasuite
