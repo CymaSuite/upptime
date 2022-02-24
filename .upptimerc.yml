@@ -3,14 +3,20 @@ owner: CymaSuite # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: App Cymasuite
+  - name: Sitio Web Oficial Cymasuite
+    url: https://www.cymasuite.com
+  - name: Sitio Web 2.0 Cymasuite
+    url: https://web.cymasuite.com
+  - name: Aplicación Web Cymasuite
     url: https://app.cymasuite.com
   - name: Api Cymasuite
     url: https://api.cymasuite.com/api/v1/healthcheck
-  - name: Web Cymasuite
-    url: https://web.cymasuite.com
+  - name: Worker Cymasuite
+    url: https://api.cymasuite.com/sidekiq
+  - name: Documentación Developer
+    url: https://api.cymasuite.com/api-docs/index.html
   - name: Servicio de impuestos interno
-    url: https://homer.sii.cl/
+    url: https://homer.sii.cl
   - name: Zeus
     url: https://zeusr.sii.cl
 status-website:
@@ -21,8 +27,8 @@ status-website:
   logoUrl: https://www.cymasuite.com/img/logo-cymasuite.svg
   name: Upptime
   theme: light
-  introTitle: "**Upptime** es el monitor de tiempo de actividad de CymaSuite y los estados de las páginas"
-  introMessage: Esta es una página de estado de muestra que utiliza datos en **real-time** de nuestro [GitHub repository](https://github.com/CymaSuite/upptime). problemas con el estado de la pagina seran reportados.
+  introTitle: "**Servidor CymaSuite** ¿Está abajo, o soy solo yo?"
+  introMessage: Monitorea el tiempo de actividad y disponibilidad de nuestras aplicaciones web, te brindamos una visión integral y transparente sobre el estado de nuestras soluciónes.
   navbar:
     - title: Status
       href: /
