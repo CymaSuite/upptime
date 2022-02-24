@@ -22,7 +22,7 @@ status-website:
   name: Upptime
   theme: light
   introTitle: "**Upptime** es el monitor de tiempo de actividad de CymaSuite y los estados de las páginas"
-  introMessage: Esta es una página de estado de muestra que utiliza **real-time** Datos de nuestra [GitHub repository](https://github.com/CymaSuite/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/CymaSuite/upptime)
+  introMessage: Esta es una página de estado de muestra que utiliza datos en **real-time** de nuestro [GitHub repository](https://github.com/CymaSuite/upptime). problemas con el estado de la pagina seran reportados.
   navbar:
     - title: Status
       href: /
