@@ -19,6 +19,8 @@ sites:
     url: https://homer.sii.cl
   - name: Zeus
     url: https://zeusr.sii.cl
+  - name: Mi indicador
+    url: https://mindicador.cl
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
