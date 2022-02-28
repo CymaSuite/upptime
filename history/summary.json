@@ -152,19 +152,19 @@
     "url": "https://mindicador.cl",
     "icon": "https://favicons.githubusercontent.com/mindicador.cl",
     "slug": "mi-indicador",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 888,
-    "timeWeek": 615,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 2160,
+    "timeDay": 4616,
+    "timeWeek": 2160,
+    "timeMonth": 2160,
+    "timeYear": 2160,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 22
     }
   }
 ]
