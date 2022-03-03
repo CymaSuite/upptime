@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cymasuite.com",
     "slug": "sitio-web-oficial-cymasuite",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.26%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
     "time": 663,
     "timeDay": 888,
-    "timeWeek": 663,
+    "timeWeek": 647,
     "timeMonth": 663,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-03-03": 17
+      "2022-03-03": 75
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://web.cymasuite.com",
     "icon": "https://favicons.githubusercontent.com/web.cymasuite.com",
     "slug": "sitio-web-2-0-cymasuite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -32,10 +32,12 @@
     "uptimeYear": "100.00%",
     "time": 812,
     "timeDay": 529,
-    "timeWeek": 812,
+    "timeWeek": 836,
     "timeMonth": 812,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   },
   {
     "name": "Aplicación Web Cymasuite",
@@ -50,7 +52,7 @@
     "uptimeYear": "99.46%",
     "time": 525,
     "timeDay": 781,
-    "timeWeek": 525,
+    "timeWeek": 510,
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {
@@ -70,7 +72,7 @@
     "uptimeYear": "99.57%",
     "time": 230,
     "timeDay": 224,
-    "timeWeek": 195,
+    "timeWeek": 192,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -90,7 +92,7 @@
     "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 59,
-    "timeWeek": 58,
+    "timeWeek": 54,
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {}
@@ -108,7 +110,7 @@
     "uptimeYear": "100.00%",
     "time": 50,
     "timeDay": 51,
-    "timeWeek": 50,
+    "timeWeek": 46,
     "timeMonth": 50,
     "timeYear": 50,
     "dailyMinutesDown": {}
@@ -126,7 +128,7 @@
     "uptimeYear": "100.00%",
     "time": 963,
     "timeDay": 1057,
-    "timeWeek": 994,
+    "timeWeek": 942,
     "timeMonth": 963,
     "timeYear": 963,
     "dailyMinutesDown": {}
@@ -144,7 +146,7 @@
     "uptimeYear": "100.00%",
     "time": 963,
     "timeDay": 1139,
-    "timeWeek": 998,
+    "timeWeek": 960,
     "timeMonth": 963,
     "timeYear": 963,
     "dailyMinutesDown": {}
@@ -155,11 +157,11 @@
     "icon": "https://favicons.githubusercontent.com/mindicador.cl",
     "slug": "mi-indicador",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "98.43%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.49%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 4813,
     "timeDay": 3559,
     "timeWeek": 4813,
