@@ -13,7 +13,7 @@
     "time": 1036,
     "timeDay": 195,
     "timeWeek": 342,
-    "timeMonth": 1118,
+    "timeMonth": 1141,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2022-03-11": 21,
@@ -27,18 +27,19 @@
     "icon": "https://favicons.githubusercontent.com/web.cymasuite.com",
     "slug": "sitio-web-2-0-cymasuite",
     "status": "down",
-    "uptime": "19.41%",
+    "uptime": "19.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.31%",
-    "uptimeYear": "19.41%",
+    "uptimeMonth": "4.11%",
+    "uptimeYear": "19.38%",
     "time": 812,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 510,
+    "timeMonth": 529,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-04-01": 1393,
+      "2022-04-02": 39,
+      "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
@@ -84,7 +85,7 @@
     "time": 472,
     "timeDay": 298,
     "timeWeek": 336,
-    "timeMonth": 460,
+    "timeMonth": 465,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2022-02-27": 54
@@ -96,18 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/api.cymasuite.com",
     "slug": "api-cymasuite",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.78%",
     "time": 657,
     "timeDay": 27379,
     "timeWeek": 4049,
-    "timeMonth": 879,
+    "timeMonth": 901,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2022-04-01": 12,
       "2022-03-18": 45,
       "2022-03-17": 28,
       "2022-02-24": 44
@@ -127,7 +127,7 @@
     "time": 133,
     "timeDay": 3763,
     "timeWeek": 588,
-    "timeMonth": 148,
+    "timeMonth": 152,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2022-03-18": 45
@@ -147,7 +147,7 @@
     "time": 136,
     "timeDay": 2142,
     "timeWeek": 570,
-    "timeMonth": 152,
+    "timeMonth": 156,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2022-03-18": 45
@@ -167,7 +167,7 @@
     "time": 847,
     "timeDay": 628,
     "timeWeek": 700,
-    "timeMonth": 802,
+    "timeMonth": 807,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2022-04-01": 85,
@@ -188,7 +188,7 @@
     "time": 903,
     "timeDay": 719,
     "timeWeek": 854,
-    "timeMonth": 882,
+    "timeMonth": 875,
     "timeYear": 903,
     "dailyMinutesDown": {}
   },
@@ -206,7 +206,7 @@
     "time": 4784,
     "timeDay": 5622,
     "timeWeek": 5575,
-    "timeMonth": 4898,
+    "timeMonth": 4693,
     "timeYear": 4784,
     "dailyMinutesDown": {
       "2022-04-01": 95,
