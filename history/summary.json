@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-05-17": 840,
+      "2022-05-17": 880,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
@@ -141,11 +141,11 @@
     "url": "https://api.cymasuite.com/api/v1/healthcheck",
     "icon": "https://favicons.githubusercontent.com/api.cymasuite.com",
     "slug": "api-cymasuite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 425,
     "timeDay": 121,
@@ -153,6 +153,7 @@
     "timeMonth": 163,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2022-05-17": 2,
       "2022-03-18": 45,
       "2022-03-17": 28,
       "2022-02-24": 44
@@ -204,18 +205,18 @@
     "icon": "https://favicons.githubusercontent.com/homer.sii.cl",
     "slug": "servicio-de-impuestos-interno",
     "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "82.57%",
-    "uptimeWeek": "82.95%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "97.20%",
+    "uptime": "97.19%",
+    "uptimeDay": "83.33%",
+    "uptimeWeek": "83.36%",
+    "uptimeMonth": "92.43%",
+    "uptimeYear": "97.19%",
     "time": 706,
     "timeDay": 765,
-    "timeWeek": 682,
+    "timeWeek": 684,
     "timeMonth": 719,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2022-05-17": 139,
+      "2022-05-17": 128,
       "2022-05-16": 253,
       "2022-05-15": 149,
       "2022-05-14": 225,
@@ -229,7 +230,7 @@
       "2022-05-06": 162,
       "2022-05-05": 192,
       "2022-05-04": 175,
-      "2022-05-03": 41
+      "2022-05-03": 67
     }
   },
   {
