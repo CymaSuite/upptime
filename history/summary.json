@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-05-19": 1413,
+      "2022-05-20": 2,
+      "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
@@ -143,11 +144,11 @@
     "url": "https://api.cymasuite.com/api/v1/healthcheck",
     "icon": "https://favicons.githubusercontent.com/api.cymasuite.com",
     "slug": "api-cymasuite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.85%",
     "time": 424,
     "timeDay": 1089,
@@ -155,7 +156,8 @@
     "timeMonth": 188,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2022-05-19": 65,
+      "2022-05-20": 2,
+      "2022-05-19": 66,
       "2022-03-18": 45,
       "2022-03-17": 28,
       "2022-02-24": 44
@@ -166,10 +168,10 @@
     "url": "https://api.cymasuite.com/sidekiq",
     "icon": "https://favicons.githubusercontent.com/api.cymasuite.com",
     "slug": "worker-cymasuite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 105,
@@ -178,6 +180,7 @@
     "timeMonth": 93,
     "timeYear": 105,
     "dailyMinutesDown": {
+      "2022-05-20": 2,
       "2022-05-19": 18,
       "2022-05-18": 21,
       "2022-03-18": 45
@@ -188,9 +191,9 @@
     "url": "https://api.cymasuite.com/api-docs/index.html",
     "icon": "https://favicons.githubusercontent.com/api.cymasuite.com",
     "slug": "documentacion-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -200,6 +203,7 @@
     "timeMonth": 69,
     "timeYear": 97,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-03-18": 45
     }
   },
@@ -208,18 +212,19 @@
     "url": "https://homer.sii.cl",
     "icon": "https://favicons.githubusercontent.com/homer.sii.cl",
     "slug": "servicio-de-impuestos-interno",
-    "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "86.19%",
+    "status": "down",
+    "uptime": "97.22%",
+    "uptimeDay": "86.17%",
     "uptimeWeek": "84.51%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "97.20%",
+    "uptimeMonth": "92.31%",
+    "uptimeYear": "97.22%",
     "time": 706,
-    "timeDay": 729,
-    "timeWeek": 716,
+    "timeDay": 713,
+    "timeWeek": 715,
     "timeMonth": 716,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-05-19": 199,
       "2022-05-18": 260,
       "2022-05-17": 198,
@@ -233,7 +238,7 @@
       "2022-05-09": 210,
       "2022-05-08": 368,
       "2022-05-07": 279,
-      "2022-05-06": 145
+      "2022-05-06": 121
     }
   },
   {
