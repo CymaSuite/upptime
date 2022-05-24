@@ -1,7 +1,7 @@
 url: https://mindicador.cl
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2022-05-23T23:12:37.059Z
+status: down
+code: 502
+responseTime: 29954
+lastUpdated: 2022-05-24T15:57:02.511Z
 startTime: Fri Feb 25 2022 00:57:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
