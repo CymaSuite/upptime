@@ -27,18 +27,18 @@
     "icon": "https://favicons.githubusercontent.com/web.cymasuite.com",
     "slug": "sitio-web-2-0-cymasuite",
     "status": "down",
-    "uptime": "6.33%",
+    "uptime": "6.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.33%",
+    "uptimeYear": "6.32%",
     "time": 812,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-06-15": 927,
+      "2022-06-15": 1110,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -294,15 +294,15 @@
     "url": "https://mindicador.cl",
     "icon": "https://favicons.githubusercontent.com/mindicador.cl",
     "slug": "mi-indicador",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "97.78%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "98.01%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.23%",
     "time": 5335,
-    "timeDay": 1850,
-    "timeWeek": 5763,
+    "timeDay": 777,
+    "timeWeek": 5810,
     "timeMonth": 6076,
     "timeYear": 5335,
     "dailyMinutesDown": {
@@ -369,7 +369,7 @@
       "2022-03-04": 35,
       "2022-03-03": 23,
       "2022-03-02": 21,
-      "2022-03-01": 46
+      "2022-03-01": 27
     }
   }
 ]
