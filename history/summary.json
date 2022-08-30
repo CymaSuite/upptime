@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-08-30": 952,
+      "2022-08-30": 1014,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
@@ -229,11 +229,11 @@
     "icon": "https://favicons.githubusercontent.com/app.cymasuite.com",
     "slug": "aplicacion-web-cymasuite",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 515,
     "timeDay": 395,
     "timeWeek": 642,
@@ -377,12 +377,12 @@
     "url": "https://mindicador.cl",
     "icon": "https://favicons.githubusercontent.com/mindicador.cl",
     "slug": "mi-indicador",
-    "status": "up",
-    "uptime": "97.86%",
-    "uptimeDay": "85.95%",
+    "status": "down",
+    "uptime": "97.87%",
+    "uptimeDay": "86.31%",
     "uptimeWeek": "95.90%",
     "uptimeMonth": "98.95%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "97.87%",
     "time": 4956,
     "timeDay": 16713,
     "timeWeek": 8078,
@@ -452,7 +452,7 @@
       "2022-04-05": 74,
       "2022-04-04": 23,
       "2022-04-01": 95,
-      "2022-03-31": 76
+      "2022-03-31": 40
     }
   }
 ]
