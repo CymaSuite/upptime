@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-09-04": 343,
+      "2022-09-04": 822,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
@@ -382,19 +382,19 @@
     "url": "https://mindicador.cl",
     "icon": "https://favicons.githubusercontent.com/mindicador.cl",
     "slug": "mi-indicador",
-    "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "73.19%",
-    "uptimeWeek": "76.13%",
+    "status": "down",
+    "uptime": "97.37%",
+    "uptimeDay": "74.85%",
+    "uptimeWeek": "76.12%",
     "uptimeMonth": "94.02%",
-    "uptimeYear": "97.35%",
+    "uptimeYear": "97.37%",
     "time": 5223,
     "timeDay": 7506,
     "timeWeek": 10068,
     "timeMonth": 6442,
     "timeYear": 5223,
     "dailyMinutesDown": {
-      "2022-09-04": 101,
+      "2022-09-04": 102,
       "2022-09-03": 317,
       "2022-09-02": 452,
       "2022-09-01": 821,
@@ -448,9 +448,7 @@
       "2022-05-03": 35,
       "2022-04-29": 22,
       "2022-04-28": 19,
-      "2022-04-27": 20,
-      "2022-04-26": 40,
-      "2022-04-25": 8
+      "2022-04-27": 20
     }
   }
 ]
