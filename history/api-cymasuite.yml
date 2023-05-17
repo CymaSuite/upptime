@@ -1,7 +1,7 @@
 url: https://api.cymasuite.com/api/v1/healthcheck
 status: up
 code: 200
-responseTime: 325
-lastUpdated: 2023-05-16T23:09:17.360Z
+responseTime: 121
+lastUpdated: 2023-05-17T23:09:02.006Z
 startTime: Thu Feb 24 2022 17:56:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
