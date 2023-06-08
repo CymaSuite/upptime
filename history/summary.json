@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-08": 53,
+      "2023-06-08": 843,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -527,7 +527,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/homer.sii.cl.ico",
     "slug": "servicio-de-impuestos-interno",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
@@ -577,18 +577,19 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.06%",
     "time": 3068,
     "timeDay": 795,
     "timeWeek": 1278,
     "timeMonth": 669,
     "timeYear": 2751,
     "dailyMinutesDown": {
+      "2023-06-08": 0,
       "2023-04-21": 19,
       "2023-04-19": 18,
       "2023-04-04": 16,
@@ -627,8 +628,7 @@
       "2022-07-07": 32,
       "2022-07-06": 39,
       "2022-07-01": 44,
-      "2022-06-30": 43,
-      "2022-06-29": 21
+      "2022-06-30": 43
     }
   }
 ]
