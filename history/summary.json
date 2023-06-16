@@ -14,7 +14,7 @@
     "timeDay": 139,
     "timeWeek": 351,
     "timeMonth": 407,
-    "timeYear": 501,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2022-06-29": 22,
       "2022-06-21": 18
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-16": 1391,
+      "2023-06-16": 1398,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -419,7 +419,7 @@
     "timeDay": 227,
     "timeWeek": 391,
     "timeMonth": 428,
-    "timeYear": 500,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2022-06-29": 22,
       "2022-06-21": 18
@@ -440,7 +440,7 @@
     "timeDay": 53,
     "timeWeek": 142,
     "timeMonth": 462,
-    "timeYear": 1531,
+    "timeYear": 1534,
     "dailyMinutesDown": {
       "2023-04-28": 505,
       "2023-02-26": 22,
@@ -473,7 +473,7 @@
     "timeDay": 39,
     "timeWeek": 110,
     "timeMonth": 142,
-    "timeYear": 894,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2023-04-28": 505,
       "2023-02-26": 22,
@@ -505,7 +505,7 @@
     "timeDay": 22,
     "timeWeek": 68,
     "timeMonth": 101,
-    "timeYear": 902,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2023-06-08": 40,
       "2023-04-28": 505,
@@ -527,19 +527,19 @@
     "url": "https://homer.sii.cl",
     "icon": "https://icons.duckduckgo.com/ip3/homer.sii.cl.ico",
     "slug": "servicio-de-impuestos-interno",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
-    "time": 1034,
-    "timeDay": 0,
-    "timeWeek": 941,
-    "timeMonth": 991,
-    "timeYear": 1181,
+    "time": 1035,
+    "timeDay": 1137,
+    "timeWeek": 973,
+    "timeMonth": 995,
+    "timeYear": 1182,
     "dailyMinutesDown": {
-      "2023-06-16": 1,
+      "2023-06-16": 8,
       "2023-05-23": 53,
       "2023-04-27": 74,
       "2023-01-05": 52,
@@ -565,7 +565,7 @@
     "timeDay": 2622,
     "timeWeek": 985,
     "timeMonth": 816,
-    "timeYear": 1085,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2023-04-27": 37,
       "2023-01-17": 21,
@@ -589,7 +589,7 @@
     "timeDay": 666,
     "timeWeek": 619,
     "timeMonth": 729,
-    "timeYear": 2496,
+    "timeYear": 2500,
     "dailyMinutesDown": {
       "2023-06-08": 17,
       "2023-04-21": 19,
