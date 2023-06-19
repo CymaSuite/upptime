@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-19": 48,
+      "2023-06-19": 1071,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
@@ -529,12 +529,12 @@
     "slug": "servicio-de-impuestos-interno",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "96.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.90%",
     "time": 1060,
-    "timeDay": 2022,
+    "timeDay": 858,
     "timeWeek": 1870,
     "timeMonth": 1248,
     "timeYear": 1205,
@@ -558,12 +558,12 @@
     "slug": "zeus",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
     "time": 1061,
-    "timeDay": 1035,
+    "timeDay": 865,
     "timeWeek": 1650,
     "timeMonth": 1015,
     "timeYear": 1102,
@@ -582,9 +582,9 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.06%",
@@ -594,6 +594,7 @@
     "timeMonth": 744,
     "timeYear": 2477,
     "dailyMinutesDown": {
+      "2023-06-19": 1,
       "2023-06-08": 17,
       "2023-04-21": 19,
       "2023-04-19": 18,
@@ -633,7 +634,7 @@
       "2022-07-07": 32,
       "2022-07-06": 39,
       "2022-07-01": 44,
-      "2022-06-30": 43
+      "2022-06-30": 18
     }
   }
 ]
