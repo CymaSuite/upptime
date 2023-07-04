@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-04": 836,
+      "2023-07-04": 895,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
@@ -576,17 +576,17 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "81.92%",
-    "uptimeWeek": "95.93%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "81.89%",
+    "uptimeWeek": "95.92%",
     "uptimeMonth": "99.02%",
-    "uptimeYear": "98.05%",
-    "time": 3027,
-    "timeDay": 10261,
+    "uptimeYear": "98.60%",
+    "time": 3031,
+    "timeDay": 10797,
     "timeWeek": 8518,
     "timeMonth": 5496,
-    "timeYear": 2772,
+    "timeYear": 2779,
     "dailyMinutesDown": {
       "2023-07-04": 241,
       "2023-07-03": 115,
@@ -619,10 +619,7 @@
       "2022-08-27": 26,
       "2022-08-25": 139,
       "2022-08-23": 21,
-      "2022-08-17": 27,
-      "2022-07-29": 835,
-      "2022-07-28": 1440,
-      "2022-07-27": 605
+      "2022-08-17": 27
     }
   }
 ]
