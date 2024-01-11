@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-11": 41,
+      "2024-01-11": 1158,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
@@ -574,9 +574,9 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -586,6 +586,7 @@
     "timeMonth": 551,
     "timeYear": 1552,
     "dailyMinutesDown": {
+      "2024-01-11": 0,
       "2023-12-04": 21,
       "2023-10-26": 52,
       "2023-09-28": 19,
