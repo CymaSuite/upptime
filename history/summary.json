@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 400,
-    "timeWeek": 538,
-    "timeMonth": 383,
+    "time": 471,
+    "timeDay": 732,
+    "timeWeek": 619,
+    "timeMonth": 385,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 38,
+      "2024-02-01": 40,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -397,8 +398,7 @@
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
-      "2023-02-02": 1440,
-      "2023-02-01": 1440
+      "2023-02-02": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 340,
-    "timeWeek": 563,
-    "timeMonth": 446,
-    "timeYear": 476,
+    "time": 468,
+    "timeDay": 801,
+    "timeWeek": 646,
+    "timeMonth": 450,
+    "timeYear": 477,
     "dailyMinutesDown": {}
   },
   {
@@ -431,8 +431,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 1244,
-    "timeDay": 123,
-    "timeWeek": 183,
+    "timeDay": 238,
+    "timeWeek": 212,
     "timeMonth": 141,
     "timeYear": 1342,
     "dailyMinutesDown": {
@@ -457,8 +457,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.57%",
     "time": 679,
-    "timeDay": 61,
-    "timeWeek": 70,
+    "timeDay": 104,
+    "timeWeek": 85,
     "timeMonth": 51,
     "timeYear": 750,
     "dailyMinutesDown": {
@@ -476,14 +476,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "documentacion-developer",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 727,
-    "timeDay": 96,
-    "timeWeek": 186,
+    "time": 728,
+    "timeDay": 212,
+    "timeWeek": 210,
     "timeMonth": 107,
     "timeYear": 783,
     "dailyMinutesDown": {
@@ -501,15 +501,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/homer.sii.cl.ico",
     "slug": "servicio-de-impuestos-interno",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1202,
-    "timeDay": 940,
-    "timeWeek": 1760,
-    "timeMonth": 1163,
+    "timeDay": 1009,
+    "timeWeek": 1730,
+    "timeMonth": 1161,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2023-11-03": 24,
@@ -541,9 +541,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 999,
-    "timeDay": 1059,
-    "timeWeek": 1431,
-    "timeMonth": 947,
+    "timeDay": 881,
+    "timeWeek": 1442,
+    "timeMonth": 951,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2023-11-03": 23,
@@ -573,10 +573,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1496,
-    "timeDay": 268,
-    "timeWeek": 573,
-    "timeMonth": 484,
+    "time": 1493,
+    "timeDay": 626,
+    "timeWeek": 606,
+    "timeMonth": 481,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2023-12-04": 21,
@@ -594,8 +594,7 @@
       "2023-04-19": 18,
       "2023-04-04": 16,
       "2023-04-03": 28,
-      "2023-03-28": 21,
-      "2023-02-01": 82
+      "2023-03-28": 21
     }
   }
 ]
