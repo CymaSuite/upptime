@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 464,
     "timeDay": 726,
-    "timeWeek": 559,
-    "timeMonth": 430,
+    "timeWeek": 591,
+    "timeMonth": 421,
     "timeYear": 422,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-31": 1390,
+      "2024-04-01": 43,
+      "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -397,8 +398,7 @@
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
-      "2023-04-03": 1440,
-      "2023-04-02": 1440
+      "2023-04-03": 1440
     }
   },
   {
@@ -414,8 +414,8 @@
     "uptimeYear": "100.00%",
     "time": 475,
     "timeDay": 880,
-    "timeWeek": 582,
-    "timeMonth": 462,
+    "timeWeek": 616,
+    "timeMonth": 451,
     "timeYear": 456,
     "dailyMinutesDown": {}
   },
@@ -432,8 +432,8 @@
     "uptimeYear": "99.90%",
     "time": 1246,
     "timeDay": 233,
-    "timeWeek": 487,
-    "timeMonth": 237,
+    "timeWeek": 536,
+    "timeMonth": 238,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2024-03-14": 16,
@@ -454,8 +454,8 @@
     "uptimeYear": "99.90%",
     "time": 659,
     "timeDay": 102,
-    "timeWeek": 461,
-    "timeMonth": 148,
+    "timeWeek": 516,
+    "timeMonth": 149,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-03-14": 16,
@@ -476,8 +476,8 @@
     "uptimeYear": "99.89%",
     "time": 668,
     "timeDay": 210,
-    "timeWeek": 223,
-    "timeMonth": 129,
+    "timeWeek": 233,
+    "timeMonth": 128,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-03-14": 16,
@@ -492,17 +492,16 @@
     "slug": "servicio-de-impuestos-interno",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1072,
     "timeDay": 1062,
-    "timeWeek": 1136,
+    "timeWeek": 1181,
     "timeMonth": 1068,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2024-03-31": 10,
       "2023-11-03": 24,
       "2023-10-31": 18,
       "2023-10-24": 24,
@@ -533,7 +532,7 @@
     "uptimeYear": "99.94%",
     "time": 901,
     "timeDay": 792,
-    "timeWeek": 806,
+    "timeWeek": 826,
     "timeMonth": 790,
     "timeYear": 826,
     "dailyMinutesDown": {
@@ -566,7 +565,7 @@
     "uptimeYear": "99.86%",
     "time": 1348,
     "timeDay": 2718,
-    "timeWeek": 3034,
+    "timeWeek": 3270,
     "timeMonth": 1350,
     "timeYear": 1598,
     "dailyMinutesDown": {
