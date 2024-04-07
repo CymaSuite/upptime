@@ -1,7 +1,7 @@
 url: https://homer.sii.cl
-status: up
-code: 200
-responseTime: 854
-lastUpdated: 2024-04-07T10:12:43.675Z
+status: down
+code: 403
+responseTime: 520
+lastUpdated: 2024-04-07T10:27:14.267Z
 startTime: 2022-02-24T18:16:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
