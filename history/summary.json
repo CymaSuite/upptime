@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-09": 1169,
+      "2024-04-09": 1205,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -490,16 +490,16 @@
     "url": "https://homer.sii.cl",
     "icon": "https://icons.duckduckgo.com/ip3/homer.sii.cl.ico",
     "slug": "servicio-de-impuestos-interno",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "49.07%",
-    "uptimeWeek": "51.84%",
-    "uptimeMonth": "88.92%",
-    "uptimeYear": "99.08%",
-    "time": 986,
-    "timeDay": 753,
-    "timeWeek": 738,
-    "timeMonth": 780,
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "50.42%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "99.09%",
+    "time": 985,
+    "timeDay": 736,
+    "timeWeek": 737,
+    "timeMonth": 779,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2024-04-09": 586,
@@ -508,7 +508,7 @@
       "2024-04-06": 803,
       "2024-04-05": 810,
       "2024-04-04": 654,
-      "2024-04-03": 394
+      "2024-04-03": 320
     }
   },
   {
@@ -556,7 +556,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
     "time": 1546,
-    "timeDay": 6612,
+    "timeDay": 6932,
     "timeWeek": 7808,
     "timeMonth": 3926,
     "timeYear": 1823,
