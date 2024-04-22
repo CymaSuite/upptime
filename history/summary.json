@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 463,
     "timeDay": 362,
-    "timeWeek": 523,
+    "timeWeek": 549,
     "timeMonth": 512,
     "timeYear": 424,
     "dailyMinutesDown": {}
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-21": 1431,
+      "2024-04-22": 34,
+      "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
@@ -397,8 +398,7 @@
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
-      "2023-04-24": 1440,
-      "2023-04-23": 1440
+      "2023-04-24": 1440
     }
   },
   {
@@ -414,7 +414,7 @@
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 356,
-    "timeWeek": 554,
+    "timeWeek": 576,
     "timeMonth": 507,
     "timeYear": 451,
     "dailyMinutesDown": {}
@@ -432,7 +432,7 @@
     "uptimeYear": "99.89%",
     "time": 1250,
     "timeDay": 114,
-    "timeWeek": 186,
+    "timeWeek": 195,
     "timeMonth": 228,
     "timeYear": 204,
     "dailyMinutesDown": {
@@ -456,7 +456,7 @@
     "uptimeYear": "99.89%",
     "time": 418,
     "timeDay": 49,
-    "timeWeek": 73,
+    "timeWeek": 76,
     "timeMonth": 155,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -480,7 +480,7 @@
     "uptimeYear": "99.89%",
     "time": 397,
     "timeDay": 91,
-    "timeWeek": 164,
+    "timeWeek": 171,
     "timeMonth": 151,
     "timeYear": 119,
     "dailyMinutesDown": {
@@ -495,24 +495,25 @@
     "url": "https://homer.sii.cl",
     "icon": "https://icons.duckduckgo.com/ip3/homer.sii.cl.ico",
     "slug": "servicio-de-impuestos-interno",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "56.86%",
-    "uptimeWeek": "56.33%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "56.84%",
+    "uptimeWeek": "56.65%",
+    "uptimeMonth": "90.02%",
+    "uptimeYear": "99.17%",
     "time": 877,
-    "timeDay": 754,
+    "timeDay": 751,
     "timeWeek": 773,
     "timeMonth": 771,
     "timeYear": 865,
     "dailyMinutesDown": {
+      "2024-04-22": 0,
       "2024-04-21": 620,
       "2024-04-20": 769,
       "2024-04-19": 772,
       "2024-04-18": 880,
       "2024-04-17": 781,
-      "2024-04-16": 579
+      "2024-04-16": 547
     }
   },
   {
@@ -528,7 +529,7 @@
     "uptimeYear": "99.94%",
     "time": 815,
     "timeDay": 634,
-    "timeWeek": 755,
+    "timeWeek": 754,
     "timeMonth": 788,
     "timeYear": 826,
     "dailyMinutesDown": {
@@ -561,7 +562,7 @@
     "uptimeYear": "99.87%",
     "time": 1568,
     "timeDay": 474,
-    "timeWeek": 489,
+    "timeWeek": 496,
     "timeMonth": 4264,
     "timeYear": 1865,
     "dailyMinutesDown": {
