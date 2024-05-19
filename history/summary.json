@@ -4,19 +4,19 @@
     "url": "https://www.cymasuite.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cymasuite.com.ico",
     "slug": "sitio-web-oficial-cymasuite",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 612,
-    "timeDay": 7866,
-    "timeWeek": 4913,
-    "timeMonth": 2465,
-    "timeYear": 635,
+    "time": 627,
+    "timeDay": 7908,
+    "timeWeek": 5109,
+    "timeMonth": 2609,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2024-05-19": 47
+      "2024-05-19": 69
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-19": 1198,
+      "2024-05-19": 1220,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
