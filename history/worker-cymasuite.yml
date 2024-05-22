@@ -1,7 +1,7 @@
 url: https://api.cymasuite.com/sidekiq
-status: down
-code: 502
-responseTime: 13
-lastUpdated: 2024-05-22T03:30:48.503Z
+status: up
+code: 200
+responseTime: 93
+lastUpdated: 2024-05-22T03:42:07.520Z
 startTime: 2022-02-24T20:18:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
