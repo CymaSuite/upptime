@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cymasuite.com.ico",
     "slug": "sitio-web-oficial-cymasuite",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "80.30%",
-    "uptimeWeek": "83.23%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.77%",
+    "uptimeDay": "80.14%",
+    "uptimeWeek": "82.51%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "99.51%",
     "time": 969,
-    "timeDay": 8174,
+    "timeDay": 8008,
     "timeWeek": 6093,
     "timeMonth": 4712,
     "timeYear": 1182,
     "dailyMinutesDown": {
-      "2024-06-15": 260,
+      "2024-06-16": 47,
+      "2024-06-15": 285,
       "2024-06-14": 364,
       "2024-06-11": 58,
       "2024-06-10": 261,
@@ -43,7 +44,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-15": 1415,
+      "2024-06-16": 47,
+      "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -406,8 +408,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 1440,
-      "2023-06-17": 1440
+      "2023-06-18": 1440
     }
   },
   {
@@ -440,7 +441,7 @@
     "uptimeMonth": "95.64%",
     "uptimeYear": "99.62%",
     "time": 339,
-    "timeDay": 224,
+    "timeDay": 131,
     "timeWeek": 217,
     "timeMonth": 175,
     "timeYear": 179,
@@ -471,7 +472,7 @@
     "uptimeMonth": "95.64%",
     "uptimeYear": "99.62%",
     "time": 508,
-    "timeDay": 63,
+    "timeDay": 32,
     "timeWeek": 67,
     "timeMonth": 60,
     "timeYear": 92,
@@ -502,7 +503,7 @@
     "uptimeMonth": "95.73%",
     "uptimeYear": "99.64%",
     "time": 505,
-    "timeDay": 226,
+    "timeDay": 239,
     "timeWeek": 148,
     "timeMonth": 122,
     "timeYear": 121,
@@ -572,8 +573,7 @@
       "2023-09-12": 16,
       "2023-09-09": 16,
       "2023-08-04": 22,
-      "2023-06-18": 34,
-      "2023-06-17": 21
+      "2023-06-18": 34
     }
   },
   {
