@@ -47,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-19": 1419,
+      "2024-10-20": 57,
+      "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -410,8 +411,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
-      "2023-10-22": 1440,
-      "2023-10-21": 1440
+      "2023-10-22": 1440
     }
   },
   {
@@ -474,18 +474,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "93.60%",
+    "uptime": "93.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.71%",
+    "uptimeYear": "83.70%",
     "time": 89,
     "timeDay": 29,
     "timeWeek": 39,
     "timeMonth": 42,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-10-19": 1419,
+      "2024-10-20": 57,
+      "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -651,9 +652,9 @@
     "slug": "mi-indicador",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1734,
     "timeDay": 1325,
@@ -661,7 +662,6 @@
     "timeMonth": 558,
     "timeYear": 1938,
     "dailyMinutesDown": {
-      "2024-10-19": 10,
       "2024-06-24": 550,
       "2024-05-10": 17,
       "2024-05-09": 17,
