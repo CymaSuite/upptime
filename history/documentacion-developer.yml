@@ -1,7 +1,7 @@
 url: https://api.cymasuite.com/api-docs/index.html
-status: up
-code: 200
-responseTime: 44
-lastUpdated: 2024-12-02T23:14:29.449Z
+status: down
+code: 502
+responseTime: 7
+lastUpdated: 2024-12-03T18:20:40.200Z
 startTime: 2022-02-24T20:18:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
