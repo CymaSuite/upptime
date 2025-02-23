@@ -47,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 1430,
+      "2025-02-23": 57,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -410,8 +411,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -483,18 +483,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "82.82%",
+    "uptime": "82.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.19%",
+    "uptimeYear": "49.18%",
     "time": 66,
     "timeDay": 7,
     "timeWeek": 34,
     "timeMonth": 38,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2025-02-22": 1430,
+      "2025-02-23": 57,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -742,7 +743,7 @@
     "slug": "servicio-de-impuestos-interno",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "4.71%",
     "uptimeWeek": "71.76%",
     "uptimeMonth": "92.93%",
     "uptimeYear": "97.12%",
