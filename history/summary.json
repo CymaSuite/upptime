@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
     "time": 1546,
-    "timeDay": 839,
-    "timeWeek": 622,
+    "timeDay": 563,
+    "timeWeek": 621,
     "timeMonth": 846,
     "timeYear": 1930,
     "dailyMinutesDown": {
@@ -26,8 +26,7 @@
       "2024-06-10": 261,
       "2024-06-09": 746,
       "2024-06-07": 627,
-      "2024-06-04": 92,
-      "2024-05-19": 69
+      "2024-06-04": 92
     }
   },
   {
@@ -36,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.cymasuite.com.ico",
     "slug": "sitio-web-2-0-cymasuite",
     "status": "down",
-    "uptime": "0.60%",
+    "uptime": "0.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -47,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 65,
+      "2025-05-19": 64,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -410,8 +410,7 @@
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
-      "2024-05-20": 1440,
-      "2024-05-19": 1440
+      "2024-05-20": 1440
     }
   },
   {
@@ -425,10 +424,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 398,
-    "timeDay": 787,
-    "timeWeek": 431,
-    "timeMonth": 416,
+    "time": 399,
+    "timeDay": 355,
+    "timeWeek": 395,
+    "timeMonth": 422,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2024-07-20": 18,
@@ -447,9 +446,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
     "time": 176,
-    "timeDay": 280,
-    "timeWeek": 191,
-    "timeMonth": 175,
+    "timeDay": 150,
+    "timeWeek": 176,
+    "timeMonth": 178,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-04-04": 667,
@@ -473,8 +472,7 @@
       "2024-06-10": 281,
       "2024-06-09": 756,
       "2024-06-07": 616,
-      "2024-06-04": 92,
-      "2024-05-19": 36
+      "2024-06-04": 92
     }
   },
   {
@@ -483,18 +481,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "76.91%",
+    "uptime": "76.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.17%",
+    "uptimeYear": "25.90%",
     "time": 59,
-    "timeDay": 60,
-    "timeWeek": 40,
-    "timeMonth": 39,
+    "timeDay": 22,
+    "timeWeek": 32,
+    "timeMonth": 40,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-05-18": 65,
+      "2025-05-19": 64,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -773,8 +772,7 @@
       "2024-06-10": 281,
       "2024-06-09": 756,
       "2024-06-07": 616,
-      "2024-06-04": 91,
-      "2024-05-19": 36
+      "2024-06-04": 91
     }
   },
   {
@@ -789,9 +787,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
     "time": 97,
-    "timeDay": 169,
-    "timeWeek": 111,
-    "timeMonth": 106,
+    "timeDay": 57,
+    "timeWeek": 87,
+    "timeMonth": 108,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2025-04-04": 668,
@@ -830,10 +828,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.68%",
     "time": 977,
-    "timeDay": 1246,
-    "timeWeek": 1172,
-    "timeMonth": 1169,
-    "timeYear": 1049,
+    "timeDay": 1548,
+    "timeWeek": 1203,
+    "timeMonth": 1191,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2025-03-14": 25,
       "2025-03-01": 24,
@@ -893,9 +891,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 861,
-    "timeDay": 926,
-    "timeWeek": 1008,
-    "timeMonth": 919,
+    "timeDay": 898,
+    "timeWeek": 909,
+    "timeMonth": 928,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2024-09-04": 45,
@@ -914,10 +912,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.48%",
     "time": 1988,
-    "timeDay": 2061,
-    "timeWeek": 980,
-    "timeMonth": 755,
-    "timeYear": 1212,
+    "timeDay": 529,
+    "timeWeek": 819,
+    "timeMonth": 758,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-05-06": 36,
       "2025-04-30": 21,
