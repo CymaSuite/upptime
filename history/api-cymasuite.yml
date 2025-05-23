@@ -1,7 +1,7 @@
 url: https://api.cymasuite.com/api/v1/healthcheck
-status: down
-code: 502
-responseTime: 103
-lastUpdated: 2025-05-23T13:37:03.513Z
+status: up
+code: 200
+responseTime: 238
+lastUpdated: 2025-05-23T13:50:09.161Z
 startTime: 2022-02-24T17:56:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
