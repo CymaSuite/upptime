@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 68,
+      "2025-07-31": 890,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -434,7 +434,7 @@
     "timeDay": 137,
     "timeWeek": 144,
     "timeMonth": 166,
-    "timeYear": 174,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2025-07-22": 94,
       "2025-07-18": 41,
@@ -459,18 +459,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "72.36%",
+    "uptime": "72.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.28%",
+    "uptimeYear": "6.13%",
     "time": 49,
     "timeDay": 10,
     "timeWeek": 24,
     "timeMonth": 39,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-07-31": 68,
+      "2025-07-31": 890,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -940,18 +940,19 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.82%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 1837,
-    "timeDay": 723,
+    "timeDay": 502,
     "timeWeek": 934,
     "timeMonth": 992,
     "timeYear": 1270,
     "dailyMinutesDown": {
+      "2025-07-31": 1,
       "2025-07-30": 31,
       "2025-07-28": 110,
       "2025-07-23": 61,
@@ -1020,8 +1021,7 @@
       "2024-12-30": 46,
       "2024-11-22": 21,
       "2024-11-07": 18,
-      "2024-11-05": 19,
-      "2024-10-28": 16
+      "2024-11-05": 19
     }
   }
 ]
