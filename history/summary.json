@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cymasuite.com.ico",
     "slug": "sitio-web-oficial-cymasuite",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1607,
     "timeDay": 4302,
     "timeWeek": 1113,
     "timeMonth": 823,
     "timeYear": 849,
-    "dailyMinutesDown": {
-      "2025-08-10": 38
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sitio Web 2.0 Cymasuite",
@@ -36,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-19": 61,
+      "2025-08-19": 861,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -462,18 +460,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "71.28%",
+    "uptime": "71.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.08%",
+    "uptimeYear": "0.93%",
     "time": 47,
     "timeDay": 69,
     "timeWeek": 41,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2025-08-19": 61,
+      "2025-08-19": 861,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -967,18 +965,19 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "99.47%",
-    "time": 1686,
+    "uptimeYear": "99.48%",
+    "time": 1687,
     "timeDay": 506,
     "timeWeek": 496,
     "timeMonth": 836,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2025-08-19": 0,
       "2025-08-11": 24,
       "2025-08-05": 49,
       "2025-07-31": 17,
@@ -1047,7 +1046,7 @@
       "2025-01-09": 41,
       "2025-01-07": 26,
       "2025-01-02": 20,
-      "2024-12-30": 46
+      "2024-12-30": 20
     }
   }
 ]
