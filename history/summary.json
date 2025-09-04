@@ -10,11 +10,11 @@
     "uptimeWeek": "97.64%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.92%",
-    "time": 1173,
-    "timeDay": 510,
-    "timeWeek": 1004,
-    "timeMonth": 925,
-    "timeYear": 864,
+    "time": 1165,
+    "timeDay": 447,
+    "timeWeek": 895,
+    "timeMonth": 917,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2025-08-31": 143,
       "2025-08-30": 25,
@@ -42,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-03": 838,
+      "2025-09-04": 55,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -405,8 +406,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -420,11 +420,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 265,
-    "timeWeek": 469,
-    "timeMonth": 548,
-    "timeYear": 398,
+    "time": 400,
+    "timeDay": 876,
+    "timeWeek": 523,
+    "timeMonth": 565,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -438,11 +438,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.32%",
-    "time": 176,
-    "timeDay": 137,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 175,
+    "timeDay": 59,
+    "timeWeek": 168,
+    "timeMonth": 172,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2025-08-07": 23,
       "2025-07-22": 94,
@@ -468,18 +468,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "70.42%",
+    "uptime": "70.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 46,
     "timeDay": 10,
-    "timeWeek": 37,
+    "timeWeek": 34,
     "timeMonth": 38,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-09-03": 838,
+      "2025-09-04": 55,
+      "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
@@ -842,8 +843,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1440,
-      "2024-09-04": 1440
+      "2024-09-05": 1440
     }
   },
   {
@@ -857,10 +857,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.32%",
-    "time": 92,
-    "timeDay": 22,
-    "timeWeek": 101,
-    "timeMonth": 92,
+    "time": 91,
+    "timeDay": 23,
+    "timeWeek": 95,
+    "timeMonth": 93,
     "timeYear": 90,
     "dailyMinutesDown": {
       "2025-08-07": 23,
@@ -892,10 +892,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "97.64%",
-    "time": 1066,
-    "timeDay": 1319,
-    "timeWeek": 1256,
-    "timeMonth": 1199,
+    "time": 1067,
+    "timeDay": 1461,
+    "timeWeek": 1278,
+    "timeMonth": 1213,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2025-08-11": 104,
@@ -943,8 +943,7 @@
       "2024-11-08": 302,
       "2024-10-26": 485,
       "2024-10-14": 17,
-      "2024-09-24": 32,
-      "2024-09-04": 67
+      "2024-09-24": 32
     }
   },
   {
@@ -959,15 +958,14 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 895,
-    "timeDay": 1014,
-    "timeWeek": 1044,
-    "timeMonth": 1020,
+    "timeDay": 863,
+    "timeWeek": 1040,
+    "timeMonth": 1018,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2025-08-11": 104,
       "2025-08-10": 47,
-      "2025-06-05": 24,
-      "2024-09-04": 45
+      "2025-06-05": 24
     }
   },
   {
@@ -977,17 +975,16 @@
     "slug": "mi-indicador",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.47%",
-    "time": 1467,
-    "timeDay": 429,
-    "timeWeek": 918,
-    "timeMonth": 1225,
-    "timeYear": 1311,
+    "time": 1447,
+    "timeDay": 2658,
+    "timeWeek": 1194,
+    "timeMonth": 1322,
+    "timeYear": 1319,
     "dailyMinutesDown": {
-      "2025-09-03": 10,
       "2025-09-01": 25,
       "2025-08-29": 53,
       "2025-08-27": 29,
@@ -1056,7 +1053,7 @@
       "2025-01-27": 20,
       "2025-01-26": 24,
       "2025-01-23": 46,
-      "2025-01-20": 20
+      "2025-01-20": 38
     }
   }
 ]
