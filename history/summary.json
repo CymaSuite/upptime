@@ -12,7 +12,7 @@
     "uptimeYear": "99.92%",
     "time": 1095,
     "timeDay": 609,
-    "timeWeek": 896,
+    "timeWeek": 942,
     "timeMonth": 972,
     "timeYear": 860,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-10": 56,
+      "2025-09-10": 785,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -468,7 +468,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "70.07%",
+    "uptime": "70.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -479,7 +479,7 @@
     "timeMonth": 39,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-09-10": 56,
+      "2025-09-10": 785,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -890,7 +890,7 @@
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "97.66%",
     "time": 1071,
     "timeDay": 1244,
@@ -955,7 +955,7 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 898,
     "timeDay": 891,
@@ -973,18 +973,19 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
-    "time": 1397,
+    "uptimeYear": "99.48%",
+    "time": 1394,
     "timeDay": 494,
     "timeWeek": 3057,
     "timeMonth": 1726,
     "timeYear": 1352,
     "dailyMinutesDown": {
+      "2025-09-10": 1,
       "2025-09-08": 17,
       "2025-09-01": 25,
       "2025-08-29": 53,
@@ -1053,8 +1054,7 @@
       "2025-01-29": 19,
       "2025-01-27": 20,
       "2025-01-26": 24,
-      "2025-01-23": 46,
-      "2025-01-20": 20
+      "2025-01-23": 46
     }
   }
 ]
