@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-23": 1119,
+      "2025-10-23": 1134,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 46,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-10-23": 1119,
+      "2025-10-23": 1134,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -974,17 +974,17 @@
     "url": "https://mindicador.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mindicador.cl.ico",
     "slug": "mi-indicador",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "99.16%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.47%",
-    "time": 1223,
-    "timeDay": 565,
-    "timeWeek": 821,
-    "timeMonth": 743,
-    "timeYear": 1397,
+    "time": 1222,
+    "timeDay": 501,
+    "timeWeek": 778,
+    "timeMonth": 731,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-10-23": 48,
       "2025-10-21": 18,
@@ -1055,8 +1055,7 @@
       "2025-02-20": 19,
       "2025-02-18": 23,
       "2025-02-17": 30,
-      "2025-02-04": 18,
-      "2025-01-29": 19
+      "2025-02-04": 18
     }
   }
 ]
