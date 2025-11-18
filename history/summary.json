@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 61,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -416,18 +416,20 @@
     "url": "https://app.cymasuite.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.cymasuite.com.ico",
     "slug": "aplicacion-web-cymasuite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 421,
-    "timeWeek": 393,
-    "timeMonth": 449,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 408,
+    "timeDay": 245,
+    "timeWeek": 352,
+    "timeMonth": 437,
+    "timeYear": 417,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Api Cymasuite",
@@ -475,7 +477,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cymasuite.com.ico",
     "slug": "worker-cymasuite",
     "status": "down",
-    "uptime": "66.52%",
+    "uptime": "66.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -486,7 +488,7 @@
     "timeMonth": 37,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2025-11-18": 61,
+      "2025-11-18": 713,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
